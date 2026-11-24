@@ -1,0 +1,56 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="BV7AD18lojP6jVxSIFz8">
+    <mxGraphModel dx="1231" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-17" edge="1" parent="1" source="mgnGWc0xo4y6reFmyLKD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="274.66666666666674" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mgnGWc0xo4y6reFmyLKD-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="430" width="450" x="50" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Proceso de identificar las características esenciales de un objeto, ignorando los detalles no esenciales&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="70" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;font style=&quot;&quot;&gt;Abstraccio&lt;/font&gt;n&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="105" x="125" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Mecanismo de la programación orientado a objetos que permite que una clase herede atributos y métodos de otra clase&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="300" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Herencia&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="105" x="332.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.004;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="50.00000000000007" y="390.7199999999999" as="sourcePoint" />
+            <mxPoint x="501.3500000000001" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-16" connectable="0" parent="EZ9GLjj-a0vOxLU5Ta0w-10" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Encapsulamiento&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" relative="1" width="60" x="0.3471" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-11" edge="1" parent="1" source="mgnGWc0xo4y6reFmyLKD-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="mgnGWc0xo4y6reFmyLKD-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230" y="460" as="sourcePoint" />
+            <mxPoint x="280" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Capacidad de un objeto de comportarse de diferentes maneras&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;dependiendo del contexto.&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="70" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 18px; text-align: justify;&quot;&gt;Polimorfismo&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EZ9GLjj-a0vOxLU5Ta0w-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Es el principio que permite proteger los datos de un objeto, restringiendo el acceso directo a ellos y controlando como pueden modificarse.&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="170" x="300" y="445" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
